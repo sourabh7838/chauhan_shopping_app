@@ -38,7 +38,7 @@ Chauhan Shopping App is a modern Flutter-based e-commerce application designed t
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/sourabh7838/chauhan_shopping_app
    cd chauhan_shopping_app
    ```
 

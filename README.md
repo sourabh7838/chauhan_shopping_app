@@ -66,8 +66,6 @@ Chauhan Shopping App is a modern Flutter-based e-commerce application designed t
 
 ## Screenshots
 
-> _Insert screenshots of the Home Screen, Category Screen, Product List, Product Detail, Cart, and Checkout screens here._
-
 | Home Screen | Category Screen | Product List | Product Detail | Cart | Checkout |
 |-------------|----------------|--------------|----------------|------|----------|
 | ![Home](screenshots/home.png) | ![Category](screenshots/category.png) | ![List](screenshots/list.png) | ![Detail](screenshots/detail.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
